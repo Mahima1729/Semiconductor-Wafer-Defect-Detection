@@ -1,5 +1,7 @@
 # Semiconductor-Wafer-Defect-Detection
 
+Fault detection in Wafers using Machine Learning based on Sensor Data
+
 ## INTRODUCTION
 
 Semiconductor manufacturing in a high volume and a high product mix production enviromnent is an extremely competitive business with respect to product quality, equipment productivity, and speed of innovation. Operating at the technology limits in feature size and using new materials on 300mm wafers will continue to present challenges in the process control area. The sophisticated processes need stabilization by many different approaches in equipment and process control, new sensor systems, in-situ and integrated metrology, and fab automation.
